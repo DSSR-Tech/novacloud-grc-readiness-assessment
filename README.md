@@ -84,14 +84,18 @@ No real customer information, production systems or confidential data have been 
 ## Project Roadmap
 
 - [x] Repository creation
-- [ ] Company profile
-- [ ] Assets inventory
-- [ ] Information classification
-- [ ] Risk assessment
-- [ ] ISO 27001 GAP analysis
-- [ ] ENS GAP analysis
-- [ ] Remediation plan
-- [ ] Internal audit
-- [ ] Audit evidence
-- [ ] Power BI dashboard
-- [ ] Final report
+- [x] README
+- [ ] Project Management
+- [ ] Company Profile
+- [ ] Infrastructure & Architecture
+- [ ] Asset Inventory
+- [ ] Information Classification
+- [ ] Risk Assessment
+- [ ] ISO 27001 Gap Analysis
+- [ ] ENS Gap Analysis
+- [ ] Remediation Plan
+- [ ] Security Policies
+- [ ] Internal Audit
+- [ ] Audit Evidence
+- [ ] Power BI Dashboard
+- [ ] Final Report
