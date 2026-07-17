@@ -1,5 +1,5 @@
 # NovaCloud Solutions
-Governance, Risk & Compliance Portfolio Project
+Governance, Risk and Compliance Readiness Assessment
 
 
 ## Project Status
@@ -9,11 +9,11 @@ In Progress
 
 ## Project Overview
 
-This repository contains a simulated Governance, Risk & Compliance (GRC) engagement for a fictional Software-as-a-Service (SaaS) company.
+This repository contains a simulated Governance, Risk and Compliance (GRC) engagement for NovaCloud Solutions, a fictional Software-as-a-Service (SaaS) company.
 
-The objective is to demonstrate practical application of governance, risk management and compliance activities commonly performed during ISO 27001 and ENS certification processes.
+The assessment evaluates the organization's readiness for ISO/IEC 27001 certification and alignment with the Spanish National Security Framework (ENS), identifying compliance gaps and defining remediation actions.
 
-Although fictional, the project has been developed following industry best practices and realistic business scenarios.
+The project follows industry best practices while simulating a realistic corporate environment.
 
 ---
 
@@ -21,9 +21,9 @@ Although fictional, the project has been developed following industry best pract
 
 NovaCloud Solutions is a SaaS company providing cloud-based document management services for medium and large enterprises.
 
-The company operates entirely in Microsoft Azure and serves customers from several regulated sectors.
+The company operates entirely in Microsoft Azure and provides services to organizations operating in regulated sectors.
 
-The environment has been designed to simulate a realistic corporate infrastructure subject to information security and regulatory requirements.
+The simulated environment represents a typical enterprise SaaS infrastructure subject to information security and regulatory requirements.
 
 ---
 
@@ -31,7 +31,7 @@ The environment has been designed to simulate a realistic corporate infrastructu
 
 The simulated engagement includes:
 
-- Asset inventory
+- Asset management
 - Information classification
 - Risk assessment
 - ISO 27001 Gap Analysis
@@ -51,12 +51,12 @@ The simulated engagement includes:
 | Project Documentation | Company context and scope |
 | Asset Inventory | Critical assets and classification |
 | Risk Assessment | Risk register and matrix |
-| GAP Analysis | ISO 27001 & ENS compliance review |
-| Action Plan | Corrective actions |
+| GAP Analysis | ISO 27001 and ENS compliance review |
+| Action Plan | Remediation activities |
 | Policies | Security documentation |
-| Internal Audit | Audit simulation & findings |
+| Internal Audit | Audit simulation and findings |
 | Audit Evidence | Sample evidence repository |
-| Dashboard | Compliance KPIs & metrics |
+| Power BI Dashboard | Compliance KPIs & metrics |
 | Architecture | Infrastructure and data flow diagrams |
 
 ---
@@ -68,7 +68,7 @@ The simulated engagement includes:
 - Microsoft Excel
 - Microsoft Azure
 - Draw.io
-- Markdown
+- Git
 
 ---
 
@@ -76,7 +76,7 @@ The simulated engagement includes:
 
 This project is based on publicly available standards and best practices, including ISO/IEC 27001 and the Spanish National Security Framework (ENS).
 
-The company, infrastructure, assets, risks and audit evidence presented throughout this repository are entirely fictional and have been created exclusively for portfolio and educational purposes.
+The company, infrastructure, assets, risks and audit evidence presented throughout this repository are entirely fictional and have been created exclusively for demonstration and educational purposes.
 
 No real customer information, production systems or confidential data have been used.
 
@@ -98,4 +98,4 @@ No real customer information, production systems or confidential data have been 
 - [ ] Internal Audit
 - [ ] Audit Evidence
 - [ ] Power BI Dashboard
-- [ ] Final Report
+- [ ] Final Assessment Report
