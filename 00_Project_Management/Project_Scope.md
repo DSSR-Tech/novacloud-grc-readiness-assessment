@@ -1,52 +1,75 @@
-Project:
+# Project Scope
+
+## Project Information
+
+**Project**
 NovaCloud GRC Readiness Assessment
 
-Client:
+**Client**
 NovaCloud Solutions
 
-Project Type:
-Governance, Risk & Compliance (GRC) Readiness Assessment
+**Assessment Type**
+Governance, Risk and Compliance (GRC) Readiness Assessment
 
-Assessment Frameworks:
+## Assessment Scope
 
-• ISO/IEC 27001:2022
+The assessment covers the governance, risk management and compliance processes supporting the NovaCloud Solutions SaaS platform hosted in Microsoft Azure.
 
-• Spanish National Security Framework (ENS)
+The review includes:
 
-Project Objective
+- Security governance
+- Information assets
+- Cloud infrastructure
+- Identity and Access Management (IAM)
+- Security policies
+- Risk management
+- Compliance documentation
 
-Evaluate the current security governance posture of NovaCloud Solutions and determine its readiness for ISO/IEC 27001 certification and ENS compliance.
+## Assessment Criteria
 
-The engagement focuses on identifying compliance gaps, assessing risks, reviewing existing controls and producing remediation recommendations together with the documentation required to support future certification activities.
+The assessment has been performed using the following reference frameworks and standards, where applicable:
 
-Deliverables
+- ISO/IEC 27001:2022
+- Esquema Nacional de Seguridad (ENS)
 
-• Company Profile
+## Project Objective
 
-• Asset Inventory
+The objective of this engagement is to assess NovaCloud Solutions' current governance, risk and compliance posture against ISO/IEC 27001 and ENS requirements.
 
-• Information Classification
+The assessment identifies compliance gaps, evaluates existing controls and defines remediation actions required to support future certification and compliance initiatives.
 
-• Risk Register
+## Deliverables
 
-• ISO 27001 Gap Analysis
+| Deliverable           | Description                                             |
+| --------------------- | ------------------------------------------------------- |
+| Company Profile       | Business overview and organizational context            |
+| Asset Inventory       | Identification and classification of information assets |
+| Risk Register         | Risk assessment and treatment register                  |
+| Compliance Assessment | ISO/IEC 27001 and ENS gap analysis                      |
+| Remediation Plan      | Recommended corrective actions                          |
+| Internal Audit        | Simulated audit findings                                |
+| Audit Evidence        | Sample evidence repository                              |
+| Compliance Dashboard  | Power BI executive dashboard                            |
 
-• ENS Gap Analysis
+## Out of Scope
 
-• Remediation Plan
+The following activities are explicitly excluded from the scope of this engagement:
 
-• Internal Audit
+- Technical penetration testing
+- Source code review
+- Active vulnerability scanning
+- Production system modifications
 
-• Audit Evidence
+## Success Criteria
 
-• Compliance Dashboard
+The engagement will be considered complete once all planned deliverables have been produced and the identified compliance gaps have been documented together with their corresponding remediation recommendations.
 
-Out of Scope
+## Document Control
 
-• Technical penetration testing
-
-• Source code review
-
-• Active vulnerability scanning
-
-• Production system modifications
+| Field          | Value         |
+| -------------- | ------------- |
+| Document       | Project Scope |
+| Version        | 1.0           |
+| Status         | Draft         |
+| Classification | Internal      |
+| Last Updated   | 2026-07-07    |
