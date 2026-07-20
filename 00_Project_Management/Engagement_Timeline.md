@@ -26,11 +26,11 @@ Governance, Risk and Compliance (GRC) Readiness Assessment
 
 ## Engagement Approach
 
-The assessment follows a sequential methodology in which the output of each phase serves as input for the next.
+The engagement follows a phased approach in which each activity builds upon the outputs of the previous phase.
 
-Each deliverable is reviewed before progressing to the subsequent phase to ensure consistency and traceability throughout the engagement.
+Each phase concludes with the review of its corresponding deliverables before the engagement progresses to the next stage.
 
-## Expected Outcome
+## Expected Deliverables
 
 Upon completion of the engagement, NovaCloud Solutions will have:
 
