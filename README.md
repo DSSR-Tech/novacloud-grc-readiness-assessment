@@ -85,7 +85,7 @@ No real customer information, production systems or confidential data have been 
 
 - [x] Repository creation
 - [x] README
-- [ ] Project Management
+- [x] Project Management
 - [ ] Company Profile
 - [ ] Infrastructure & Architecture
 - [ ] Asset Inventory
