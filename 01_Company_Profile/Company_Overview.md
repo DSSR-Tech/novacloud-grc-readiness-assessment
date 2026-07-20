@@ -11,38 +11,54 @@ NovaCloud Solutions
 **Assessment Type**  
 Governance, Risk and Compliance (GRC) Readiness Assessment
 
+---
+
 ## Company Overview
 
-NovaCloud Solutions is a fictional Software-as-a-Service (SaaS) provider specializing in secure cloud-based document management solutions for medium and large enterprises.
+NovaCloud Solutions is a Software-as-a-Service (SaaS) provider specializing in enterprise document management and digital workflow solutions.
 
-The company delivers a multi-tenant platform designed to support document storage, collaboration and lifecycle management for organizations operating in regulated industries, including financial services, healthcare and professional services.
+Founded in 2014, the company operates across Spain and Portugal and serves more than 2,400 corporate customers with approximately 1.4 million end users.
 
-Founded in 2018, NovaCloud Solutions has grown to approximately 180 employees and provides services to customers across Spain and Portugal.
+Headquartered in Madrid, with regional offices in Barcelona and Lisbon, NovaCloud Solutions employs approximately 3,200 people across business, technology and corporate functions.
 
-The company's headquarters are located in Madrid, while the majority of its workforce operates under a hybrid working model.
+The organization delivers a multi-tenant cloud platform designed to support secure document storage, collaboration, workflow automation and information lifecycle management for medium-sized and large enterprises.
 
-## Business Environment
+---
 
-NovaCloud Solutions operates its production platform entirely within Microsoft Azure and relies on Microsoft cloud services to support its internal business operations.
+## Business Profile
 
-Core business systems include:
+NovaCloud Solutions provides cloud-based services to organizations operating in sectors where information security, regulatory compliance and service availability are critical business requirements.
 
-- Microsoft Azure
-- Microsoft Entra ID
-- Microsoft 365
-- Azure SQL Database
-- Azure Blob Storage
-- GitHub
+Primary customer sectors include:
 
-The organization follows a DevOps development model with continuous delivery practices and maintains separate environments for development, testing and production workloads.
+- Financial Services
+- Healthcare
+- Insurance
+- Public Administration
+- Legal Services
+- Professional Services
 
-## Business Objectives
+The company's business model is based on subscription services with enterprise support agreements and long-term customer relationships.
 
-NovaCloud Solutions aims to provide secure, reliable and scalable document management services while meeting customer expectations regarding information security and regulatory compliance.
+---
 
-To support these objectives, the organization has initiated a Governance, Risk and Compliance (GRC) readiness assessment focused on evaluating its current security posture against ISO/IEC 27001 and the Spanish National Security Framework (ENS).
+## Operational Environment
 
-The assessment is intended to identify compliance gaps, improve governance processes and establish a structured roadmap toward future certification initiatives.
+NovaCloud Solutions operates its production environment exclusively within Microsoft Azure.
+
+The corporate technology ecosystem includes Microsoft 365, Microsoft Entra ID and several Azure-native services supporting identity management, data storage, monitoring and application hosting.
+
+Software development follows a DevOps model supported by GitHub Enterprise, with dedicated development, testing and production environments.
+
+---
+
+## Assessment Context
+
+As part of its information security and compliance strategy, NovaCloud Solutions has commissioned an independent Governance, Risk and Compliance (GRC) readiness assessment.
+
+The engagement has been initiated to evaluate the organization's current governance framework, assess its alignment with ISO/IEC 27001:2022 and the Spanish National Security Framework (ENS), and identify opportunities to strengthen governance processes prior to future certification activities.
+
+---
 
 ## Document Control
 
@@ -52,4 +68,4 @@ The assessment is intended to identify compliance gaps, improve governance proce
 | Version | 1.0 |
 | Status | Draft |
 | Classification | Internal |
-| Last Updated | 2026-07-07 |
+| Last Updated | 2026-07-20 |
