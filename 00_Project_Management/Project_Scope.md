@@ -2,13 +2,13 @@
 
 ## Project Information
 
-**Project**
+**Project**  
 NovaCloud GRC Readiness Assessment
 
-**Client**
+**Client**  
 NovaCloud Solutions
 
-**Assessment Type**
+**Assessment Type**  
 Governance, Risk and Compliance (GRC) Readiness Assessment
 
 ## Assessment Scope
