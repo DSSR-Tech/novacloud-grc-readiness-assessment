@@ -90,7 +90,7 @@ No real customer information, production systems or confidential data have been 
 - [x] Repository creation
 - [x] README
 - [x] Project Management
-- [ ] Company Profile
+- [x] Company Profile
 - [ ] Infrastructure & Architecture
 - [ ] Asset Inventory
 - [ ] Information Classification
