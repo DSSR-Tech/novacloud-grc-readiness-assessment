@@ -43,7 +43,7 @@ Any significant deviation from these assumptions may require adjustments to the 
 | Field          | Value               |
 | -------------- | ------------------- |
 | Document       | Project Assumptions |
-| Version        | 1.0                 |
+| Version        | 1.1                 |
 | Status         | Draft               |
 | Classification | Internal            |
 | Last Updated   | 2026-07-17          |

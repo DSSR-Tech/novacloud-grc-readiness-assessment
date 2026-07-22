@@ -47,7 +47,7 @@ Upon completion of the engagement, NovaCloud Solutions will have:
 | Field | Value |
 |-------|-------|
 | Document | Engagement Timeline |
-| Version | 1.0 |
+| Version | 1.7 |
 | Status | Draft |
 | Classification | Internal |
 | Last Updated | 2026-07-20 |

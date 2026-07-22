@@ -65,7 +65,7 @@ The engagement has been initiated to evaluate the organization's current governa
 | Field | Value |
 |-------|-------|
 | Document | Company Overview |
-| Version | 1.0 |
+| Version | 1.3 |
 | Status | Draft |
 | Classification | Internal |
 | Last Updated | 2026-07-20 |

@@ -69,7 +69,7 @@ The engagement will be considered complete once all planned deliverables have be
 | Field          | Value         |
 | -------------- | ------------- |
 | Document       | Project Scope |
-| Version        | 1.0           |
+| Version        | 2.2           |
 | Status         | Draft         |
 | Classification | Internal      |
 | Last Updated   | 2026-07-17    |
