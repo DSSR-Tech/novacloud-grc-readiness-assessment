@@ -13,7 +13,7 @@ Governance, Risk and Compliance (GRC) Readiness Assessment
 
 ## Overview
 
-Identity and access management is a key component of NovaCloud Solutions' security model.
+Identity and access management supports the protection of NovaCloud Solutions' cloud environment and business applications.
 
 The environment uses Microsoft Entra ID to authenticate users, manage access to corporate resources and support administrative activities across the Azure platform.
 
@@ -32,7 +32,7 @@ The environment includes the following identity types:
 | Service Accounts | Application and service integration |
 | External Users | Limited access for third-party collaboration |
 
-Identity lifecycle activities, including user provisioning and account removal, are managed through established administrative procedures.
+User accounts are created, updated and removed through documented administrative procedures.
 
 ## Authentication
 
@@ -45,13 +45,13 @@ The following controls are implemented across the environment:
 - Conditional Access
 - Single Sign-On (SSO)
 
-Administrative accounts require MFA and are subject to additional access restrictions where applicable.
+Administrative accounts require MFA and are subject to additional controls.
 
 ## Authorization
 
 Access to systems and services is assigned according to business responsibilities.
 
-Role-Based Access Control (RBAC) is used to limit permissions based on job functions and operational requirements.
+Access permissions are assigned using Role-Based Access Control (RBAC) and follow the principle of least privilege.
 
 Privileged roles are assigned only to authorized personnel and reviewed periodically.
 
@@ -67,7 +67,7 @@ User accounts are created, modified and removed following documented approval pr
 
 Periodic access reviews are performed to confirm that permissions remain appropriate for each role.
 
-Inactive accounts are disabled in accordance with internal security procedures.
+Inactive accounts are periodically reviewed and disabled when no longer required.
 
 ## Assessment Relevance
 
@@ -80,7 +80,7 @@ The outcome of this review supports the subsequent risk assessment and complianc
 | Field | Value |
 |-------|-------|
 | Document | Identity and Access |
-| Version | 1.0 |
+| Version | 1.1 |
 | Status | Draft |
 | Classification | Internal |
-| Last Updated | 2026-07-30 |
+| Last Updated | 2026-07-31 |
