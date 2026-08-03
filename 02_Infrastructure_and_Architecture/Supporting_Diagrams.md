@@ -45,7 +45,7 @@ Diagrams are maintained using Draw.io format to allow future updates and collabo
 The files are stored within the following repository location:
 
 ```
-/Architecture_and_Infrastructure/diagrams/
+/Architecture_and_Infrastructure/Diagrams/
 ```
 
 ## Assessment Relevance
@@ -57,7 +57,7 @@ The supporting diagrams provide a visual reference of the environment assessed d
 | Field | Value |
 |-------|-------|
 | Document | Supporting Diagrams |
-| Version | 1.0 |
+| Version | 1.1 |
 | Status | Draft |
 | Classification | Internal |
 | Last Updated | 2026-08-03 |
