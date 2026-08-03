@@ -32,8 +32,6 @@ The environment includes the following identity types:
 | Service Accounts | Application and service integration |
 | External Users | Limited access for third-party collaboration |
 
-User accounts are created, updated and removed through documented administrative procedures.
-
 ## Authentication
 
 User authentication is based on Microsoft Entra ID.
@@ -41,7 +39,7 @@ User authentication is based on Microsoft Entra ID.
 The following controls are implemented across the environment:
 
 - Multi-Factor Authentication (MFA)
-- Password policies
+- Authentication policies
 - Conditional Access
 - Single Sign-On (SSO)
 
@@ -80,7 +78,7 @@ The outcome of this review supports the subsequent risk assessment and complianc
 | Field | Value |
 |-------|-------|
 | Document | Identity and Access |
-| Version | 1.1 |
+| Version | 1.2 |
 | Status | Draft |
 | Classification | Internal |
-| Last Updated | 2026-07-31 |
+| Last Updated | 2026-08-03 |

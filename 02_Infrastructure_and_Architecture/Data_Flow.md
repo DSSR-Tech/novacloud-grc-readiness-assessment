@@ -56,7 +56,7 @@ Information classification is documented separately within the Information Class
 
 ## Data Protection
 
-The platform includes technical and administrative controls intended to protect business information throughout its lifecycle.
+The platform applies technical and administrative controls to protect information throughout its lifecycle.
 
 These controls include:
 
@@ -78,7 +78,7 @@ Understanding how information moves through the environment provides the context
 | Field | Value |
 |-------|-------|
 | Document | Data Flow |
-| Version | 1.1 |
+| Version | 1.2 |
 | Status | Draft |
 | Classification | Internal |
-| Last Updated | 2026-07-31 |
+| Last Updated | 2026-08-03 |

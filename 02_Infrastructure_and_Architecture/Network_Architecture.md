@@ -21,7 +21,7 @@ The assessment focuses on the production environment and the network controls su
 
 ## Network Segmentation
 
-The environment is divided into separate logical segments based on operational requirements.
+The environment includes separate logical areas based on operational and security requirements.
 
 | Network Segment | Purpose |
 |-----------------|---------|
@@ -40,7 +40,7 @@ External access to the platform is provided through secure HTTPS connections.
 
 Administrative access is restricted to authorized personnel and protected through centralized identity management and multi-factor authentication.
 
-No direct public access is permitted to internal management services or database resources.
+Direct public access to internal management services and database resources is restricted.
 
 ## Internal Services
 
@@ -77,7 +77,7 @@ The network architecture provides the technical context required to identify inf
 | Field | Value |
 |-------|-------|
 | Document | Network Architecture |
-| Version | 1.1 |
+| Version | 1.2 |
 | Status | Draft |
 | Classification | Internal |
-| Last Updated | 2026-07-29 |
+| Last Updated | 2026-08-03 |

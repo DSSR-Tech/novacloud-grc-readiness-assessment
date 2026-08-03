@@ -15,7 +15,7 @@ Governance, Risk and Compliance (GRC) Readiness Assessment
 
 NovaCloud Solutions operates a cloud-native SaaS platform hosted in Microsoft Azure.
 
-The technology stack has been selected to support secure application delivery, identity management, data protection and operational monitoring.
+The technology stack supports application delivery, identity management, data protection and operational monitoring.
 
 The components described in this document represent the primary technologies considered within the scope of this engagement.
 
@@ -31,7 +31,7 @@ The components described in this document represent the primary technologies con
 | Azure Virtual Network | Network segmentation |
 | Azure Firewall | Network security |
 
-## Identity & Access
+## Identity and Security Controls
 
 | Technology | Purpose |
 |------------|---------|
@@ -39,7 +39,7 @@ The components described in this document represent the primary technologies con
 | Multi-Factor Authentication (MFA) | User authentication |
 | Role-Based Access Control (RBAC) | Access management |
 
-## Monitoring & Security
+## Monitoring and Security
 
 | Technology | Purpose |
 |------------|---------|
@@ -47,7 +47,7 @@ The components described in this document represent the primary technologies con
 | Microsoft Sentinel | Security monitoring and incident detection |
 | Azure Backup | Backup and recovery |
 
-## Productivity & Development
+## Productivity and Development
 
 | Technology | Purpose |
 |------------|---------|
@@ -64,7 +64,7 @@ The technologies listed in this document provide the technical context required 
 | Field | Value |
 |-------|-------|
 | Document | Technology Stack |
-| Version | 1.0 |
+| Version | 1.1 |
 | Status | Draft |
 | Classification | Internal |
-| Last Updated | 2026-07-29 |
+| Last Updated | 2026-08-03 |

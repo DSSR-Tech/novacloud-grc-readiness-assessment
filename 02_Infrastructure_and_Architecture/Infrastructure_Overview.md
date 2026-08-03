@@ -17,7 +17,7 @@ NovaCloud Solutions delivers its SaaS platform through a cloud-native infrastruc
 
 The environment has been designed to support high availability, scalability and centralized security management while meeting the operational requirements of enterprise customers.
 
-The assessment considers the production environment together with the supporting services required to operate, monitor and secure the platform.
+The assessment considers the production platform together with the supporting services required to operate, monitor and secure the solution.
 
 ## Infrastructure Components
 
@@ -80,7 +80,7 @@ The infrastructure described in this document establishes the technical baseline
 | Field | Value |
 |-------|-------|
 | Document | Infrastructure Overview |
-| Version | 1.1 |
+| Version | 1.2 |
 | Status | Draft |
 | Classification | Internal |
-| Last Updated | 2026-07-24 |
+| Last Updated | 2026-08-03 |
