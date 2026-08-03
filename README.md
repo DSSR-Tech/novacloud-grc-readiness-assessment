@@ -91,7 +91,7 @@ No real customer information, production systems or confidential data have been 
 - [x] README
 - [x] Project Management
 - [x] Company Profile
-- [ ] Infrastructure & Architecture
+- [x] Infrastructure & Architecture
 - [ ] Asset Inventory
 - [ ] Information Classification
 - [ ] Risk Assessment
