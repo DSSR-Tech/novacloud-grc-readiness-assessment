@@ -15,7 +15,7 @@ Governance, Risk and Compliance (GRC) Readiness Assessment
 
 This document defines the ownership model applied to the assets identified within the NovaCloud Solutions environment.
 
-Assigning ownership ensures that each asset has a responsible role accountable for its management, protection and appropriate use.
+Assigning ownership establishes accountability for the management, protection and appropriate use of identified assets.
 
 Asset ownership represents business accountability and does not necessarily correspond to technical administration responsibilities.
 
@@ -57,14 +57,14 @@ Changes that may require ownership review include:
 
 ## Assessment Relevance
 
-Clear ownership supports effective risk management, security control implementation and compliance activities throughout this engagement.
+Clear ownership supports risk management, security control implementation and compliance activities throughout this engagement.
 
 ## Document Control
 
 | Field | Value |
 |-------|-------|
 | Document | Asset Ownership |
-| Version | 1.0 |
+| Version | 1.1 |
 | Status | Draft |
 | Classification | Internal |
 | Last Updated | 2026-08-07 |
