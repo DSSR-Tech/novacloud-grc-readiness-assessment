@@ -92,7 +92,7 @@ No real customer information, production systems or confidential data have been 
 - [x] Project Management
 - [x] Company Profile
 - [x] Infrastructure & Architecture
-- [ ] Asset Inventory
+- [x] Asset Inventory
 - [ ] Information Classification
 - [ ] Risk Assessment
 - [ ] ISO 27001 Gap Analysis
