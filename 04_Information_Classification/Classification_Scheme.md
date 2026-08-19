@@ -15,7 +15,7 @@ Governance, Risk and Compliance (GRC) Readiness Assessment
 
 This document defines the information classification levels used by NovaCloud Solutions.
 
-The scheme provides a common basis for determining the protection and handling requirements applicable to different types of information.
+The scheme provides a common basis for determining the protection and handling requirements for different types of information.
 
 ## Classification Levels
 
@@ -28,7 +28,7 @@ The scheme provides a common basis for determining the protection and handling r
 
 ## Classification Criteria
 
-Information classification is based primarily on the potential impact of unauthorized disclosure.
+Information classification is based on the sensitivity of the information and the potential impact of unauthorized disclosure.
 
 The following factors are considered when assigning a classification:
 
@@ -80,7 +80,7 @@ The classification scheme provides a consistent basis for the classification reg
 | Field | Value |
 |-------|-------|
 | Document | Classification Scheme |
-| Version | 1.0 |
+| Version | 1.1 |
 | Status | Draft |
 | Classification | Internal |
-| Last Updated | 2026-08-17 |
+| Last Updated | 2026-08-19 |

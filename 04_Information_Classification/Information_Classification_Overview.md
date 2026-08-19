@@ -17,7 +17,7 @@ Information classification is used to determine the level of protection required
 
 This document defines the approach used to classify information according to its sensitivity, business value and applicable security requirements.
 
-The classification scheme provides a consistent basis for determining how information should be handled, stored and shared throughout its lifecycle.
+The classification scheme provides a basis for determining how information should be handled, stored and shared.
 
 ## Classification Scope
 
@@ -49,9 +49,9 @@ The assigned classification may be reviewed when the use, content or applicable 
 
 ## Classification Ownership
 
-Information owners are responsible for determining the appropriate classification for the information under their responsibility.
+Information Owners are responsible for determining the appropriate classification for the information under their responsibility.
 
-Security & Compliance provides guidance on the classification process and supports the review of classification decisions where required.
+Security & Compliance provides guidance on the classification process and reviews classification decisions when required.
 
 ## Assessment Relevance
 
@@ -62,7 +62,7 @@ Information classification provides input for the selection of appropriate secur
 | Field | Value |
 |-------|-------|
 | Document | Information Classification Overview |
-| Version | 1.0 |
+| Version | 1.1 |
 | Status | Draft |
 | Classification | Internal |
-| Last Updated | 2026-08-12 |
+| Last Updated | 2026-08-19 |
