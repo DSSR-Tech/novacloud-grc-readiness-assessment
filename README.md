@@ -94,7 +94,7 @@ No real customer information, production systems or confidential data have been 
 - [x] Infrastructure & Architecture
 - [x] Asset Inventory
 - [x] Information Classification
-- [ ] Risk Assessment
+- [x] Risk Assessment
 - [ ] ISO 27001 Gap Analysis
 - [ ] ENS Gap Analysis
 - [ ] Remediation Plan
