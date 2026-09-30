@@ -19,9 +19,11 @@ The assessment builds on the asset inventory and information classification acti
 
 ## Assessment Approach
 
-Risks are identified based on the assets and business processes included in the assessment scope. Each risk is evaluated considering its potential impact on NovaCloud Solutions and the likelihood of the relevant event occurring.
+Risks are identified based on the assets, information and business processes within the assessment scope.
 
-The assessment considers the following factors:
+The assessment considers the potential impact on the confidentiality, integrity and availability of information, together with the likelihood of the relevant event occurring.
+
+The following factors are considered when evaluating each risk:
 
 - Business impact
 - Information sensitivity
@@ -67,18 +69,11 @@ The rating is used to support prioritization and does not represent a statement 
 | 4 | Significant impact affecting critical services, sensitive information or regulatory obligations |
 | 5 | Severe impact with major operational, regulatory, financial or reputational consequences |
 
-## Risk Treatment
+## Risk Acceptance
 
-The identified risks are assigned a treatment approach based on their rating and business context.
+Risk ratings are reviewed against the risk acceptance criteria defined for the assessment.
 
-Possible treatment options are:
-
-- Mitigate
-- Accept
-- Transfer
-- Avoid
-
-Treatment actions are documented in the Risk Treatment document and tracked together with the responsible owner, priority and current status.
+Critical and High risks require documented treatment or an explicit management decision to accept the associated exposure. Medium and Low risks are reviewed based on their business context and may be accepted where the remaining exposure is considered appropriate.
 
 ## Assessment Relevance
 
@@ -91,7 +86,7 @@ The results will be used in subsequent compliance gap analysis and remediation a
 | Field | Value |
 |-------|-------|
 | Document | Risk Assessment Overview |
-| Version | 1.0 |
+| Version | 1.2 |
 | Status | Draft |
 | Classification | Internal |
-| Last Updated | 2026-09-14 |
+| Last Updated | 2026-09-30 |
